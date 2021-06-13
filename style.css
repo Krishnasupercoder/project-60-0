@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.line {
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: auto;
+
+}
+
+p {
+    max-width: 450px;
+    font-size: 17px;
+    margin: auto
+}
+
+#bio {
+    padding: 50px;
+    background: linear-gradient(#09eb45 0%, #09ebd4 100%);
+
+}
+ul{
+list-style: none;   
+font-family:inherit;
+top: 10px;
+right: 30px;
+cursor:pointer;
+    position: fixed;
+    font-weight: bold;
+}
+
+li{
+padding-left: 9px;
+padding-right: 9px;
+padding-top:  5px;
+padding-bottom: 5px;    
+float: left;            
+}
+li:hover{
+background-color:white;
+}
+#about {
+    padding: 50px;
+    background: linear-gradient(#ffffff 0%, #0af0b3 100%);
+
+}
+#wasup{
+font-family: 'Cedarville Cursive', cursive;    
+}
+#technogamerz{
+width: 175px;
+border-radius:50%;
+margin-bottom: 50px;    
+}
+html{
+scroll-behavior:smooth;
+}
+.thuglife{
+height: 400px        
+}
+#books{
+    background: linear-gradient( #fcdf03 0%, #34ebd5 100%);
+}
+#Inspiration{
+  background: linear-gradient( #25de18 0%, #de1818 100%);
+}
+#my work{
+    background: linear-gradient( #25de18 0%, #de1818 100%);
+}
+img{
+    width:200px;
+    height: 200px;
+}
